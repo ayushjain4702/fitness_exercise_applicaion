@@ -1,4 +1,4 @@
-# fitness exercise applicaion using ReactJS
+# Fitness applicaion using ReactJS
 
 Project Link - https://city-gym.netlify.app/
 
